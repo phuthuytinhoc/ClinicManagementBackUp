@@ -1,0 +1,245 @@
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.Properties.Resources.resources
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.exe
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.pdb
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmGiaoDienChung.resources
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThemBenhNhan.resources
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDonThuoc.resources
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThuPhi.resources
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmNhapVien.resources
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmTheoDoi.resources
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmBenhAn.resources
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmXuatVien.resources
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmChuyenVien.resources
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDangNhap.resources
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.exe
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.pdb
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmBenhAn.resources
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmChuyenVien.resources
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDangNhap.resources
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDonThuoc.resources
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmGiaoDienChung.resources
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThemBenhNhan.resources
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmTheoDoi.resources
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThuPhi.resources
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmNhapVien.resources
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmXuatVien.resources
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HUNG\Desktop\Full Version\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.exe
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.pdb
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmBenhAn.resources
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmChuyenVien.resources
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDangNhap.resources
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDonThuoc.resources
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmGiaoDienChung.resources
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThemBenhNhan.resources
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmTheoDoi.resources
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThuPhi.resources
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmNhapVien.resources
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmXuatVien.resources
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\HUNG\Documents\Visual Studio 2010\Projects\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.exe
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.pdb
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmBenhAn.resources
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmChuyenVien.resources
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDangNhap.resources
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDonThuoc.resources
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmGiaoDienChung.resources
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThemBenhNhan.resources
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmTheoDoi.resources
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThuPhi.resources
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmNhapVien.resources
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmXuatVien.resources
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDoiMatKhau.resources
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThemTaiKhoan.resources
+C:\Users\HUNG\Desktop\HOC TAP\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmPhongToHinhX_QuangBN.resources
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDoiMatKhau.resources
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThemTaiKhoan.resources
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmPhongToHinhX_QuangBN.resources
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.132.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.135.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.149.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.245.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.250.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.368.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.368.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.370.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.382.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.419.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.535.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.543.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.574.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.569.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.206.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.201.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.204.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.201.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.244.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.326.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.344.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.324.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.889.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.887.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.887.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.1039.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.948.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.948.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.exe
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.pdb
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmBenhAn.resources
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmChuyenVien.resources
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDangNhap.resources
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDoiMatKhau.resources
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDonThuoc.resources
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmGiaoDienChung.resources
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThemBenhNhan.resources
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThemTaiKhoan.resources
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmTheoDoi.resources
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThuPhi.resources
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmNhapVien.resources
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmXuatVien.resources
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmPhongToHinhX_QuangBN.resources
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.1039.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.132.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.201.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.204.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.244.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.245.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.250.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.326.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.344.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.368.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.370.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.535.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.543.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.574.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.887.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.889.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.948.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.135.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.149.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.201.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.206.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.324.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.368.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.382.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.419.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.569.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.887.tlog
+C:\Users\HUNG\Desktop\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.948.tlog
+E:\XuBI\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.exe
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.pdb
+E:\XuBI\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+E:\XuBI\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmBenhAn.resources
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmChuyenVien.resources
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDangNhap.resources
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDoiMatKhau.resources
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDonThuoc.resources
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmGiaoDienChung.resources
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThemBenhNhan.resources
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThemTaiKhoan.resources
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmTheoDoi.resources
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThuPhi.resources
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmNhapVien.resources
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmXuatVien.resources
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmPhongToHinhX_QuangBN.resources
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.Properties.Resources.resources
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.1039.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.132.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.201.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.204.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.244.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.245.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.250.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.326.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.344.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.368.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.370.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.535.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.543.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.574.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.887.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.889.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.948.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.135.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.149.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.201.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.206.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.324.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.368.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.382.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.419.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.569.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.887.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.948.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.1927.tlog
+E:\XuBI\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.1948.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.1927.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.1948.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.252.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.260.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.540.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.read.550.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.252.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.260.tlog
+D:\Hoc tap\Lap trinh CSDL\Quan ly benh vien\Do an Quan Ly Benh Vien\Code\QuanLyBenhVien\QuanLyBenhVien\obj\x86\Debug\GenerateResource.write.550.tlog
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.exe
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.pdb
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.csprojResolveAssemblyReference.cache
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmBenhAn.resources
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmChuyenVien.resources
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDangNhap.resources
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDoiMatKhau.resources
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmDonThuoc.resources
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmGiaoDienChung.resources
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThemBenhNhan.resources
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThemTaiKhoan.resources
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmTheoDoi.resources
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmThuPhi.resources
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmNhapVien.resources
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmXuatVien.resources
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.frmPhongToHinhX_QuangBN.resources
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.Properties.Resources.resources
+D:\QuanLyBenhVien_SourceFull\QuanLyBenhVien\obj\x86\Debug\QuanLyBenhVien.csproj.GenerateResource.Cache
